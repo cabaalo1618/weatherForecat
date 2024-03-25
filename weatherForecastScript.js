@@ -1,6 +1,6 @@
 
 document.addEventListener('DOMContentLoaded', function () {
-    const API_KEY = 'cdcf2c7714e87d11040f6ae7a5fe762d';
+    const API_KEY = 'API_KEY';
     const citySelect = document.getElementById('city-select');
     const getForecastBtn = document.getElementById('get-forecast-btn');
     const forecastDiv = document.getElementById('forecast');
